@@ -1,0 +1,28 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.website-logo-button {
+  width: 110px;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+}
+
+.website-logo {
+  width: 110px;
+}
+
+.logout-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 7px 17px;
+  font-size: 14px;
+  cursor: pointer;
+}
